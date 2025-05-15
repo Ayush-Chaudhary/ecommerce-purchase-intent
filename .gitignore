@@ -30,5 +30,4 @@ merged_df.csv
 
 confusion_matrix.png
 roc_curve.png
-report.pdf
-report.tex
+report/
