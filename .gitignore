@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+ENV/
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# IDE
+.vscode/
+.idea/
+
+# Project specific
+data/
+*.csv
+*.png
+merged_df.csv
+
+# Logs
+*.log
+
+confusion_matrix.png
+roc_curve.png
+report.pdf
+report.tex
